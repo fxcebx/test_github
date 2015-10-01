@@ -1,9 +1,7 @@
 # Example Unit Testing Script
-
 expect_that(1, equals(1))
 
 # Check that the source data has the expected format
-
 # test_that("data has loaded as expected", {
 #   expect_that(length(local.reviews),              equals(5))
 #   expect_that(length(outdoor.furniture.assets),   equals(8))
