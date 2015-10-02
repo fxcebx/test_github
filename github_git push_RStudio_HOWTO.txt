@@ -5,7 +5,7 @@
 2. Make RStudio Project with local git Repository and first commit...  
 	
 3. Push to github
-  save your ssh publickey in github.com
+  save your ssh publickey in github.com profile
   
 ## Push an existing repository from the command line
 ##   ... if Push from within RStudio does not work
