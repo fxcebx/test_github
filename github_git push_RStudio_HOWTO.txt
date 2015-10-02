@@ -1,0 +1,14 @@
+# Workflow for RStudio Project and git
+
+1. github.com Make New Repository Quick setup  
+
+2. Make RStudio Project with local git Repository and first commit...  
+	
+3. Push to github
+
+## Push an existing repository from the command line
+##   ... if Push from within RStudio does not work
+
+git remote add origin git@github.com:fxcebx/test_github.git
+
+git push -u origin master
