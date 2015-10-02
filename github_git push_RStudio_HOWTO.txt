@@ -5,12 +5,13 @@
 2. Make RStudio Project with local git Repository and first commit...  
 	
 3. Push to github
-
+  save your ssh publickey in github.com
+  
 ## Push an existing repository from the command line
 ##   ... if Push from within RStudio does not work
 (error: unable to read askpass response from 'rpostback-askpass'
 fatal: could not read Username for 'https://github.com': )
 
+## or manually from commandline
 git remote add origin git@github.com:fxcebx/test_github.git
-
 git push -u origin master
