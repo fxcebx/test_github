@@ -5,8 +5,8 @@
 2. Make RStudio Project with local git Repository and first commit...  
 	
 3. Push to github
-  save your ssh publickey in github.com profile
-  edit local git Repository /.git/config
+  save your ssh publickey in github.com profile and
+  edit in local git Repository /.git/config
       [remote "origin"]
         url= git@github.com:fxcebx/test_github.git
         
