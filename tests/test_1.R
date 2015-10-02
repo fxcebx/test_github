@@ -8,6 +8,7 @@ expect_that(1, equals(1))
 test_that("trigonometric functions match identities", {
   expect_that(sin(pi / 4), equals(1/sqrt(2)))
 })
+# test_that("this test fails", fail())
 
 # Check that the source data has the expected format
 # test_that("data has loaded as expected", {
