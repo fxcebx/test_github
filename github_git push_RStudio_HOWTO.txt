@@ -6,9 +6,12 @@
 	
 3. Push to github
   save your ssh publickey in github.com profile and
+  LINUX
   edit in local git Repository /.git/config
       [remote "origin"]
-        url= git@github.com:fxcebx/test_github.git
+        url = git@github.com:fxcebx/test_github.git
+  WINDOWS      
+        url = https://github.com/fxcebx/test_github.git    
         
 ## Push an existing repository from the command line
 ##   ... if Push from within RStudio does not work
